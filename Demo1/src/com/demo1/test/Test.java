@@ -8,6 +8,9 @@ public class Test {
 	public static void main(String[] args) {
 		// version1.0
 		System.out.println("Hello");
+		
+		// version2.0
+		System.out.println("Hello");
 
 	}
 
